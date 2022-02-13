@@ -148,3 +148,15 @@ gecko-va.tiktokv.com
 p16-sign-va.tiktokcdn.com.akamaized.net
 log22-normal-useast1a.tiktokv.com
 api-va.tiktokv.com
+aws-proxy-gcp.api.snapchat.com
+app-analytics-v2.snapchat.com
+aws.api.snapchat.com
+us-central1-gcp.api.snapchat.com
+europe-west1-gcp.api.snapchat.com
+us-east1-aws.api.snapchat.com
+us-east4-gcp.api.snapchat.com
+gcp.api.snapchat.com
+mvm.snapchat.com
+aws.duplex.snapchat.com
+app.snapchat.com
+pro-accounts.snapchat.com
