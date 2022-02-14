@@ -160,3 +160,12 @@ mvm.snapchat.com
 aws.duplex.snapchat.com
 app.snapchat.com
 pro-accounts.snapchat.com
+dualstack.pinterest.map.fastly.net
+i.pinimg.com.gslb.pinterest.com
+api.pinterest.com
+trk.pinterest.com
+api.pinterest.com.gslb.pinterest.com
+v.pinimg.com.gslb.pinterest.com
+assets.pinterest.com
+prod.pinterest.global.map.fastly.net
+widgets.pinterest.com
