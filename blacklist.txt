@@ -170,7 +170,7 @@ assets.pinterest.com
 prod.pinterest.global.map.fastly.net
 widgets.pinterest.com
 cs9.wac.phicdn.net
-dn.fbsbx.com
+cdn.fbsbx.com
 instagram.c10r.instagram.com
 lookaside.facebook.com
 mqtt.c10r.facebook.com
@@ -183,5 +183,7 @@ scontent-frt3-1.xx.fbcdn.net
 scontent-frt3-2.xx.fbcdn.net
 scontent-frx5-1.xx.fbcdn.net
 scontent-frx5-2.xx.fbcdn.net
+scontent.xx.fbcdn.net
 star.c10r.facebook.com
 star.fallback.c10r.facebook.com
+ocsp2.g.aaplimg.com
