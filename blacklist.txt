@@ -187,3 +187,4 @@ scontent.xx.fbcdn.net
 star.c10r.facebook.com
 star.fallback.c10r.facebook.com
 ocsp2.g.aaplimg.com
+(^|\.)instagram\.com$
